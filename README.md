@@ -2,6 +2,7 @@
 - 👀 I’m interested in devops
 - 🌱 I’m currently learning CICD
 - 💞️ I’m looking to collaborate on k8s/docker
+- Let's move to AI Agent of DevOps/SRE
 
 
 <!---
